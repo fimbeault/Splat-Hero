@@ -1,0 +1,43 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.602]
+    Renderer: NVIDIA GeForce GTX 560 Ti  
+    Vendor:   NVIDIA
+    VRAM:     978 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.6f4
+Default GameObject Tag: Player already registered
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/BaseClasses/Tags.cpp Line: 55)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Zero\Desktop\SplatHero_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Zero\Desktop\SplatHero_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Zero\Desktop\SplatHero_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Zero\Desktop\SplatHero_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 178. Operation took 12.663690 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 273. Operation took 14.998135 ms.
+registering TURQUOISE_MAGE
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+registering SHIPPER
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+registering LE_TRUC
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+registering RIRONMAN
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
